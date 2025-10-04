@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi everyone, I am Ein Verne 👋
 
-<!--
-**erickguans/erickguans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a Software Engineer 💻, Open Source Enthusiast, Linux user :penguin: and a [vimer](https://github.com/einverne/dotfiles) :man:.**
 
-Here are some ideas to get you started:
+- 🌱 &nbsp;I’m currently learning Flutter and building a Japanese Dictionary called [Aki Dictionary](https://ak.einverne.info).
+- 📫 &nbsp;Reach me at [Twitter](https://twitter.com/einverne) or <a rel="me" href="https://m.einverne.info/@einverne">Mastodon</a>.
+- 📝 I regularly write articles on <https://blog.einverne.info>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔗 Connect with me
+<a href="https://twitter.com/einverne" target="_blank"><img align="center" src="images/twitter.svg" alt="twitter einverne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/einverne" target="_blank"><img align="center" src="images/linked-in-alt.svg" alt="linkedin einverne" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1820217/einverne" target="_blank"><img align="center" src="images/stack-overflow.svg" alt="stackoverflow einverne" height="30" width="40" /></a>
+<a href="https://instagram.com/einverne" target="_blank"><img align="center" src="images/instagram.svg" alt="instagram einverne" height="30" width="40" /></a>
+<a href="https://www.douban.com/people/einverne" target="_blank"><img align="center" src="images/douban.svg" alt="douban einverne" height="30" width="40" /></a>
+<a href="https://homer.einverne.info" target="_blank"><img align="center" src="images/homer.svg" alt="einverne online services" height="30" width="40" /></a>
